@@ -20,17 +20,4 @@ int main (int argc, char const* argv[]) {
    a.imprime();
    a.removeItem(11);
    a.imprime();
-   
-   //cout << a.getUlt();
-   //cout << "Hello!\n";
-   //return 0; 
-   
-   /*Encad a;
-   a.initEncad();
-   a.insere(1);
-   a.insere(2);
-   a.insere(5);
-   a.insere(25);
-   a.imprime(); */
-   
 }
